@@ -1,5 +1,5 @@
 # Quizizz-Hack_Bot
-This is an auto-answering bot for quizizz made from python and javascript.
+This is an auto-answering bot for quizizz made from python, C, Tcl and javascript.
 
 Things you will need:-
 1. chrome driver for selenium(should be pasted in home directory)
